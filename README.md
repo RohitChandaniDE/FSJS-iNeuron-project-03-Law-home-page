@@ -25,7 +25,7 @@
 
 ### ![Badge](https://img.shields.io/badge/FINAL-OUTPUT-yellow)
 
-![Output](./Final%20output/)
+![Output](./Final%20output/final%20output.jpeg)
 
 
 
