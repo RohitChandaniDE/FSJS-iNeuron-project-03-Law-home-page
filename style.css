@@ -1,0 +1,93 @@
+body {
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    margin: auto;
+    background-color: #2d2819;
+  }
+
+  nav {
+    display: flex;
+    height: 170px;
+    align-items: center;
+    justify-content: space-between;
+   }
+
+   .logo {
+    margin-left: 130px;
+   }
+
+   .list {
+    display: flex;
+    flex-direction: row;
+    margin-left: 190px;
+   }
+   
+   .list-item {
+    list-style-type: none;
+    color: gray;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 40px;
+   }
+
+   .list li:nth-child(1) {
+    color: #fff;
+   }
+
+   .button-small {
+    color: yellow;
+    background-color:#2d2819;
+    border: 1px double yellow;
+    font-size: 17px;
+    border-radius: 10px;
+    padding: 10px 25px;
+    font-family: sans-serif;
+    margin-right: 125px;
+   }
+
+   .Justice-heading {
+    font-size: 85px;
+    font-family: sans-serif;
+    color: #fff;
+    margin-left: 130px ;
+    margin-top: 60px;
+   }
+
+   .justice-text {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 25px;
+    line-height: 30px;
+    margin-left: 1000px;
+    margin-top: -250px;
+    }
+
+  .bottom-logo {
+    height: 85vh;
+    margin-top: 90px;
+}
+
+.bottom-button {
+    font-size: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: -4px;
+}
+
+.left-button {
+    font-size: 30px;
+    padding: 10px 50px;
+    background-color: #5d5233;
+    color:  #ad9248;
+    border:  #5d5233;
+}
+
+.right-button {
+    font-size: 30px;
+    padding: 10px 50px;
+    background-color: #ad9248;
+    color: #fff;
+    border:  rgb(124, 29, 29)
+    }
